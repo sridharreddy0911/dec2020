@@ -2,3 +2,4 @@ hello
 Iam
 sridhar
 new line for conflict in local
+git commit for conflict at remote
